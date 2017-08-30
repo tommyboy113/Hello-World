@@ -1,5 +1,5 @@
 # Hello-World
-This is my first one!
+This is my first one on GitHub!
 
 #include <stdio.h>
 int main()
